@@ -1,0 +1,26 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.DotSettings.user
+
+# Log (Serilog)
+logs/
+*.log
+
+# Rider/VS hasil restore & cache
+*.suo
+*.userosscache
+
+# Secrets / config lokal (jangan commit kredensial)
+appsettings.*.local.json
+*.secrets.json
+
+# Test results
+[Tt]est[Rr]esult*/
+coverage*.xml
+*.coverage

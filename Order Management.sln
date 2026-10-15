@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order Management", "Order Management\Order Management.csproj", "{B09B8108-77D3-489D-ACBA-1057C5109E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order Management.Tests", "Order Management.Tests\Order Management.Tests.csproj", "{2D3C3404-0B59-4AF7-95F0-F29DDA6FFFC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09B8108-77D3-489D-ACBA-1057C5109E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09B8108-77D3-489D-ACBA-1057C5109E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09B8108-77D3-489D-ACBA-1057C5109E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09B8108-77D3-489D-ACBA-1057C5109E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3C3404-0B59-4AF7-95F0-F29DDA6FFFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3C3404-0B59-4AF7-95F0-F29DDA6FFFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3C3404-0B59-4AF7-95F0-F29DDA6FFFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3C3404-0B59-4AF7-95F0-F29DDA6FFFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
